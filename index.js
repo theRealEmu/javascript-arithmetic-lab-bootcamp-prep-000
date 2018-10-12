@@ -11,6 +11,8 @@ function add(num1, num2) {
 
 
 //Fu substract
-function substract(){
+function substract(a, b){
+  
+  return a - b;
   
 }
