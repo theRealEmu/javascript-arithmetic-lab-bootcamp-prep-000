@@ -1,4 +1,4 @@
-//Fu add
+//1 Fu add
 function add(num1, num2) {
   
   if (parseInt(num1) && parseInt(num2)) {
@@ -10,7 +10,7 @@ function add(num1, num2) {
 }
 
 
-//Fu substract
+//2 Fu substract
 function substract(a, b){
   
   return a - b;
@@ -18,9 +18,24 @@ function substract(a, b){
 }
 
 
-//Fu multiply
+//3 Fu multiply
 function multiply(a,b) {
   
   return a * b;
   
 }
+
+
+//4 Fu divide
+function divide(a, b) {
+  
+  return a / b;
+  
+}
+
+
+//5 Fu inc
+function inc(n) {
+  return += n;
+}
+
