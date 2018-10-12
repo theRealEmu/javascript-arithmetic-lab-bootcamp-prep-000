@@ -49,3 +49,13 @@ function dec(n) {
 
 }
 
+
+//7 makeInt 
+function makeInt(n) {
+  
+  return parseInt(n);
+  
+}
+
+
+//8 
