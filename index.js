@@ -36,6 +36,6 @@ function divide(a, b) {
 
 //5 Fu inc
 function inc(n) {
-//  return n += 1;
+  return n += 1;
 }
 
