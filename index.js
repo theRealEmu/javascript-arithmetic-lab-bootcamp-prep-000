@@ -53,7 +53,8 @@ function dec(n) {
 //7 makeInt 
 function makeInt(n) {
   
-  return parseInt(n);
+  var base = 10;
+  return parseInt(n, base);
   
 }
 
