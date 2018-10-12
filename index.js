@@ -59,8 +59,8 @@ function makeInt(n) {
 }
 
 
-//8 preserve
-function preserve(n) {
+//8 preserveDecimal
+function preserveDecimal(n) {
   
   return parseFloat(n);
   
