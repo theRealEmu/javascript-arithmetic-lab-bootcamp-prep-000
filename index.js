@@ -20,5 +20,7 @@ function substract(a, b){
 
 //Fu multiply
 function multiply(a,b) {
+  
   return a * b;
+  
 }
