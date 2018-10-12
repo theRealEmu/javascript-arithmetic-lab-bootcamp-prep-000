@@ -10,8 +10,8 @@ function add(num1, num2) {
 }
 
 
-//2 Fu substract
-function substract(a, b){
+//2 Fu subtract
+function subtract(a, b){
   
   return a - b;
   
